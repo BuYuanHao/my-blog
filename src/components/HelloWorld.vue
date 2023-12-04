@@ -12,7 +12,7 @@ const count = ref(0)
   <h1>今朝有酒今朝醉</h1>
 
   <div class="card">
-    <button type="button" @click="count++">count is {{ count }}</button>
+    <button type="button" @click="count++">浦锐今天吃 {{ count }}个狗鸡</button>
     <p>
       Edit
       <code>components/HelloWorld.vue</code> to test HMR
